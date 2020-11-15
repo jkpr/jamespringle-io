@@ -14,15 +14,15 @@ Let's say you perusing [github.com](https://github.com) and you find a shiny, ne
 example, [_Black_](https://github.com/psf/black), the uncompromising code formatter for Python. You want it. You want
 all of its branches.
 
-{{< image src="/static/img/github-black-branches.png" position="center" alt="Repository Black on Github with branches" >}}
+{{< image src="/static/img/2020/github-black-branches.png" position="center" alt="Repository Black on Github with branches" >}}
 
 Naturally, you perform a `git clone` to make a copy of the repository on your own (local) computer.
 
-{{< image src="/static/img/git-clone-result.png" position="center" alt="Git clone console output" >}}
+{{< image src="/static/img/2020/git-clone-result.png" position="center" alt="Git clone console output" >}}
 
 But after running `git branch` to admire all of your branches, you are greeted with a lonely `master` branch :confused:.
 
-{{< image src="/static/img/git-clone-branch.png" position="center" alt="Git branch console output" >}}
+{{< image src="/static/img/2020/git-clone-branch.png" position="center" alt="Git branch console output" >}}
 
 You thought you were getting a clone, an exact copy of the repository on Github. But clearly, that isn't so! You only
 have the `master` branch, right?
@@ -38,7 +38,7 @@ This explains why there is only a `master` branch after a `git clone`.
 
 So there is something called a "remote-tracking branch" and I can see all of them with `git branch --remotes`.
 
-{{< image src="/static/img/git-clone-branch-remotes.png" position="center" alt="Git branch remotes console output" >}}
+{{< image src="/static/img/2020/git-clone-branch-remotes.png" position="center" alt="Git branch remotes console output" >}}
 
 From `git branch --help`, we learn option `-r` or `--remotes` causes the remote-tracking branches to be listed, and
 option `-a` or `--all` shows both local and remote branches. So now we know there is a distinction between a _local_ and
@@ -78,7 +78,7 @@ since we can have multiple remotes and we can have remote-tracking branches for 
 and the only local branch so far is `master`. Therefore, we can simply `git checkout dirty-docs`&mdash;using the shortcut to
 the shortcut&mdash;and then we have it locally to work on.
 
-{{< image src="/static/img/git-clone-checkout.png" position="center" alt="Git checkout console output" >}}
+{{< image src="/static/img/2020/git-clone-checkout.png" position="center" alt="Git checkout console output" >}}
 
 This checkout automatically sets up the upstream information for our new `dirty-docs` branch, so that a simple `git
 pull` works.

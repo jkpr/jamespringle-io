@@ -16,7 +16,7 @@ Wastl](http://was.tl/), first ran Advent of Code in 2015, and he has repeated it
 enough to be able to work on these challenges most nights and find solutions, and in the early morning hours of December
 25, I finished the final challenge.
 
-This is what my final Advent of Code looks like: {{< image src="/static/img/advent-of-code-2019-complete.png"
+This is what my final Advent of Code looks like: {{< image src="/static/img/2020/advent-of-code-2019-complete.png"
 alt="Advent of Code 2019" position="center" >}}
 
 # How I got started
