@@ -1,7 +1,7 @@
 +++
 title = "Automating Python projects with make"
 date = "2020-12-13T22:36:37-06:00"
-author = ""
+author = "James K. Pringle"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["make", "python"]

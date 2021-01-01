@@ -1,7 +1,7 @@
 +++
 title = "Updating certbot to avoid stale root certificates in old versions of Android"
 date = "2020-11-22T16:19:04-06:00"
-author = ""
+author = "James K. Pringle"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["android", "tls", "certbot", "lets-encrypt"]

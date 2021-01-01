@@ -1,7 +1,7 @@
 +++
 title = "Advent of Code 2019 Intro"
 date = "2020-11-01T21:51:25-06:00"
-author = ""
+author = "James K. Pringle"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["competitive-programming", "challenge", "advent-of-code"]

@@ -1,7 +1,7 @@
 +++
 title = "Getting Redis up and running with Docker"
 date = "2020-12-06T15:47:30-06:00"
-author = ""
+author = "James K. Pringle"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["redis", "docker"]

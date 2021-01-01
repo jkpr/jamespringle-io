@@ -1,7 +1,7 @@
 +++
 title = "The BOM in UTF-8"
 date = "2020-11-15T15:09:05-06:00"
-author = ""
+author = "James K. Pringle"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["unicode"]
