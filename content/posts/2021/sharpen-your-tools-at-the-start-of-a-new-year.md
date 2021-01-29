@@ -12,7 +12,7 @@ showFullContent = false
 
 At the start of each new year, take a step back and review the tools you use, read a little in their documentation, and see if you can do things better.
 
-{{< image src="/static/img/2021/tool-sharpening.jpeg" alt="A red and black striped bug" position="center" style="border-radius: 8px;" >}}
+{{< image src="/static/img/2021/tool-sharpening.jpeg" alt="An axe being sharpened at a grinder" position="center" style="border-radius: 8px;" >}}
 
 After the long break for Christmas and with the start of a new year, coming back to work in January can feel a little like beginning afresh. When I start up again in January, I like to review the tools I use and try to see if I can use them better. Throughout the year, we quickly form habits for how we like to use software and write code. This speeds up our work as things flow from muscle memory. However, our muscle memory may not be the most efficient way!
 
